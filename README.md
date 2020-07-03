@@ -38,4 +38,4 @@ The criteria chosen to measure the accuracy of the forecast is mean absolute per
 ![Forecast](https://user-images.githubusercontent.com/58733201/86497047-a7be4080-bd9d-11ea-87aa-27ed39e446dc.png)
 
 
-All plots are available in Images.
+All plots are available in Plots.
