@@ -26,6 +26,7 @@ All models are implemented on both types of data.
 The load demand is measured in MW in 24 months.
 
 Dataset consists of hourly readings(17,520 readings) of years 2009 & 2010  of a city of Malaysia.
+You can get the dataset in Data directory.
 
 
 # Error Criteria 
